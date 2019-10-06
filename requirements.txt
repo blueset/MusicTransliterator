@@ -1,0 +1,7 @@
+mutagen
+pypinyin
+requests
+flask-mongoengine
+flask
+dnspython
+flask-cors
